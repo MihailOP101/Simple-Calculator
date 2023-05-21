@@ -1,7 +1,7 @@
 Main()
 {
-  Public static void main()
+  Public static void main(String[] args)
   {
-    println("Hello new project!");
+    System.out.println("Hello new project!");
   }
 }

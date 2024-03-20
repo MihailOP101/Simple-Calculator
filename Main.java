@@ -47,6 +47,6 @@ public class Main
   //This is the exception method
   private static int Exception(String string)
   {
-    return 0;
+    return string;
   }
 }
